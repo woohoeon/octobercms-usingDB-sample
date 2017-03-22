@@ -115,6 +115,12 @@ INSTALLATION COMPLETE
 php artisan october:update
 ```
 
+#### Database migration
+
+```
+php artisan october:up
+```
+
 #### Install plugin
 
 ```
